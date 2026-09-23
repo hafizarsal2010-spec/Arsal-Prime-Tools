@@ -1,0 +1,6 @@
+{
+  "name": "Arsal Prime Tools",
+  "description": "Premium digital tools, subscription licenses, and software accounts store with instant delivery, order tracking, and customer portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

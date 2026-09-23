@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="jbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181515" />
+      <stop offset="100%" stop-color="#0e0c0c" />
+    </linearGradient>
+    <linearGradient id="jgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#ef4444" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#jbg)" rx="16"/>
+  <g transform="translate(145, 70)">
+    <rect width="110" height="110" rx="22" fill="#201a1a" stroke="url(#jgrad)" stroke-width="2.5"/>
+    <text x="32" y="65" fill="#ffffff" font-family="monospace" font-size="28" font-weight="900">&gt;_</text>
+    <line x1="32" y1="80" x2="78" y2="80" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="200" y="225" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="700" text-anchor="middle">JetBrains All Pack</text>
+  <text x="200" y="250" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="2">INTELLIJ &amp; WEBSTORM 1-YEAR</text>
+</svg>
